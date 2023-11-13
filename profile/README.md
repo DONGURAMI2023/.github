@@ -1,4 +1,6 @@
 # 동구라미
+### 유튜브 링크
+https://www.youtube.com/watch?v=2GtXruJhpCA
 ### 제출 타입 및 주제
 C타입 - 청년을 위한 SW개발
 ### 프로젝트 한 줄 설명
